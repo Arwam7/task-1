@@ -1,7 +1,7 @@
 هنا تم عمل المهامات التاليه:
 
 (servo motor) -  تشغيل ال 
-https://www.tinkercad.com/things/bICoKI35XuU-shiny-curcan-bigery/editel?sharecode=_JsqP5FeZRPOc8qFD1RyuPJJbb1VBGcJBIzi5oPF_rU
+https://www.tinkercad.com/things/9rNkIVkRC4J-fantabulous-amur/editel?sharecode=oo70in6L0-Sq9qvkIBS_LWhWa_SrbUqYggbZAcZEEM4
 
 تشغيل ال (stepper motor) - https://www.tinkercad.com/things/fvSjgUejB0m-grand-bruticus/editel?sharecode=EU1ig_N5LEd-5wUM6By2bEECkGWepSqNU9mP4pmJme8
 
